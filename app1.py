@@ -70,6 +70,7 @@ You are AttriBot, an intelligent HR retention assistant and a data analyst focus
     * Maintain a professional and empathetic tone suitable for HR.
 """
 
+
 # Initialize Faker for demo data
 fake = Faker()
 
