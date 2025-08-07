@@ -14,3 +14,4 @@ faker>=18.11.0
 google-generativeai>=0.3.0
 tavily-python>=0.0.5
 numpy>=1.24.0
+pysqlite3-binary
